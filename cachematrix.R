@@ -2,7 +2,7 @@
 ## The second function computes the inverse of the special "matrix" returned by 
 ## makeCacheMatrix above.
 
-## The first function returns a list of 4 functions.
+## The first function returns a list of four functions.
 ## set is used to set the matrix, get to return the matrix, setinv to set the
 ## inverse of the matrix and getinv to return the inverse of the matrix.
 
